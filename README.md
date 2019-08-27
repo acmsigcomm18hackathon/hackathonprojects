@@ -15,3 +15,7 @@ Mathieu Jadin (UC Louvain), Vladimir Olteanu (University Politehnica of Buchares
         * [socksget](https://github.com/45G/socksget/tree/ipv6sr)
     * [iperf3 support](https://github.com/SPYFF/iperf/tree/seg6)
 
+## Fine Grained Network Path Profiling from Traceroutes
+
+**Team Members**
+Petros Gigis (ICS FORTH/University of Crete), George Nomikos (ICS FORTH), Savvas Kastanakis (ICS FORTH/University of Crete), Max Demoulin (University of Pennsylvania), Ross Teixeira (Princeton University), Claro Noda (Mid Sweden University)
