@@ -5,8 +5,8 @@
 **Team Members**:
 Mathieu Jadin (UC Louvain), Vladimir Olteanu (University Politehnica of Bucharest), Alonso Reyes (Universidad de Chile), Ferenc Fejes (University of Debrecen).
 
-[Presentation](https://docs.google.com/presentation/d/1T00nLg7H7R5nX489IGLG3lEmP_P-I4o2fgh5tR_7ZPA/edit?usp=sharing) and [Demo](https://www.youtube.com/watch?v=e03SLEb-B3k&feature=youtu.be)
-
+* [Presentation](https://docs.google.com/presentation/d/1T00nLg7H7R5nX489IGLG3lEmP_P-I4o2fgh5tR_7ZPA/edit?usp=sharing) 
+* [Demo](https://www.youtube.com/watch?v=e03SLEb-B3k&feature=youtu.be)
 * Source code: 
     * Socksv6 with SRv6 Support:
         * [libsocks6msg](https://github.com/45G/libsocks6msg/tree/ipv6sr)
@@ -20,4 +20,4 @@ Mathieu Jadin (UC Louvain), Vladimir Olteanu (University Politehnica of Buchares
 **Team Members**:
 Petros Gigis (ICS FORTH/University of Crete), George Nomikos (ICS FORTH), Savvas Kastanakis (ICS FORTH/University of Crete), Max Demoulin (University of Pennsylvania), Ross Teixeira (Princeton University), Claro Noda (Mid Sweden University)
 
-[Presentation](https://github.com/acmsigcomm18hackathon/hackathonprojects/blob/master/SIGCOMM%20Hackathon.pdf)
+* [Presentation](https://github.com/acmsigcomm18hackathon/hackathonprojects/blob/master/SIGCOMM%20Hackathon.pdf)
