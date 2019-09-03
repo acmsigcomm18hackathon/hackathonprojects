@@ -29,5 +29,5 @@ Petros Gigis (ICS FORTH/University of Crete), George Nomikos (ICS FORTH), Savvas
 Chunyi Peng (Purdue University), Quentin De Coninck (UCLouvain), Syed Ali Raza Zaidi (University of Leeds), Ensar Zeljkovic (IDLab research group - Imec, University of Antwerp), Maryam Hafeez (University of Huddersfield)
 
 * [Presentation](https://www.cs.purdue.edu/homes/chunyi/talks/mobileinsight-hackaton-201808-full-final.pptx)
-*[Source code](https://github.com/qdeconinck/hackathon-2018-mobileinsight)
+* [Source code](https://github.com/qdeconinck/hackathon-2018-mobileinsight)
 
