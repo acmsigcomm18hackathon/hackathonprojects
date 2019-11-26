@@ -31,6 +31,16 @@ Chunyi Peng (Purdue University), Quentin De Coninck (UCLouvain), Syed Ali Raza Z
 * [Presentation](https://www.cs.purdue.edu/homes/chunyi/talks/mobileinsight-hackaton-201808-full-final.pptx)
 * [Source code](https://github.com/qdeconinck/hackathon-2018-mobileinsight)
 
+## NEC (Name Data Networking, Edge Computing, and Cloud Computing) Project
+
+**Team Members**:
+Rehmat Ullah, Muhammad Atif and RehmanByung-Seo Kim (Hongik University, South Korea)
+
+* [Presentation]()
+* Source Code
+  * [NDN](https://github.com/atifrehman/NEC/tree/master/ndnSIM/apps)
+  * [Edge](https://github.com/atifrehman/NEC/tree/master/Edge)
+  * [Cloud](https://github.com/atifrehman/NEC/tree/master/Cloud)
 
 ## Populating ASN information during MLAB data ingestion
 
