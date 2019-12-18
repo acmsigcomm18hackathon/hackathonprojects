@@ -23,6 +23,11 @@ Petros Gigis (ICS FORTH/University of Crete), George Nomikos (ICS FORTH), Savvas
 * [Presentation](https://github.com/acmsigcomm18hackathon/hackathonprojects/blob/master/SIGCOMM%20Hackathon.pdf)
 * [Source code](https://github.com/pgigis/vantage-point-similarity)
 
+## MNKernel: Unikernel Support for Mininet
+
+**Team Members**:
+Alexander Jung (Lancaster University), Michał Król (University College London), Torsten Runge (Technischen Universität Hamburg)   
+
 ## MobileInsight
 
 **Team Members**:
